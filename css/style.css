@@ -24,7 +24,7 @@ body {
 .container-width{
   width:90%;
   max-width:1150px;
-  margin:0 auto 0 236px;
+  margin:0 auto 0 auto;
   height:auto;
 }
 .menu{
@@ -102,11 +102,13 @@ body {
   font-size:1.4em;
   margin-bottom:5px;
   font-family:Helvetica, serif;
+  font-weight:700;
 }
 .card-sub-title{
-  color:#b3b3b3;
   font-size:1em;
   margin-bottom:15px;
+  color:#212121;
+  font-weight:500;
 }
 .card-desc{
   font-size:0.85rem;
