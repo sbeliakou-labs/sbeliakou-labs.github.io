@@ -86,9 +86,11 @@ body {
 }
 .card-header.ch3{
   background-image:url("images/pod.jpeg");
+  background-size: 320px auto;
 }
 .card-header.ch4{
   background-image:url("images/deploy.jpg");
+  background-size: 320px auto;
 }
 .card-header.ch5{
   background-image:url("//placehold.it/350x250/f28c33/fff/image5.jpg");
