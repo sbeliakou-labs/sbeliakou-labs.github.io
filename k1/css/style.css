@@ -106,6 +106,10 @@ body {
 .card-header.ch-trouble{
   background-image:url("images/trouble.jpg");
 }
+.card-header.ch-boot{
+  background-image:url("images/modes.png");
+}
+
 .card-body{
   padding:15px 15px 5px 15px;
   color:#555;
