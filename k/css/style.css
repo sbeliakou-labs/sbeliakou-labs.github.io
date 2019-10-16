@@ -109,7 +109,9 @@ body {
 .card-header.ch-boot{
   background-image:url("images/modes.png");
 }
-
+.card-header.ch-play{
+  background-image:url("images/terminal.png");
+}
 .card-body{
   padding:15px 15px 5px 15px;
   color:#555;
